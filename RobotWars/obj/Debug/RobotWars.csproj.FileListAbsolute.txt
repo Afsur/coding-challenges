@@ -1,0 +1,6 @@
+C:\RobotWars\RobotWars\RobotWars\bin\Debug\RobotWars.dll
+C:\RobotWars\RobotWars\RobotWars\bin\Debug\RobotWars.pdb
+C:\RobotWars\RobotWars\RobotWars\obj\Debug\RobotWars.csprojAssemblyReference.cache
+C:\RobotWars\RobotWars\RobotWars\obj\Debug\RobotWars.csproj.CoreCompileInputs.cache
+C:\RobotWars\RobotWars\RobotWars\obj\Debug\RobotWars.dll
+C:\RobotWars\RobotWars\RobotWars\obj\Debug\RobotWars.pdb
